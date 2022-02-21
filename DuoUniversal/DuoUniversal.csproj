@@ -17,6 +17,7 @@
     <RepositoryType>git</RepositoryType>
     <Description>Duo two-factor authentication for .NET web applications</Description>
     <PackageProjectUrl>https://github.com/duosecurity/duo_universal_csharp</PackageProjectUrl>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
